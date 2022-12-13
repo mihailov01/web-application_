@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "date": "2022-09-30 12:00",
+      "bill": [
+        {
+          "name": "SGleba",
+          "count": 2
+        },
+        {
+          "name": "AGleba",
+          "count": 3
+        }
+      ],
+      "status": "ordered",
+      "price": 15000
+    },
+    {
+      "id": 2,
+      "date": "2022-09-30 12:00",
+      "bill": [
+        {
+          "name": "SGleba",
+          "count": 1
+        }
+      ],
+      "status": "in_progress",
+      "price": 2500
+    }
+  ]
+}
